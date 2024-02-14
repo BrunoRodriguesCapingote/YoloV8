@@ -1,7 +1,6 @@
-path: ../datasets/coco128
-train: images/train2017
-val: images/train2017
+path: C:\Users\CPGT\Desktop\YoloV8\datasets\pt_76_seg
+train: images/train2024
+val: images/train2024
 
-names:
-  0: pt-76
-  1: super_nitendo_64
+nc: 1
+names: ['pt-76']
